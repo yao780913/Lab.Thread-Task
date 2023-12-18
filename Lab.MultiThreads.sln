@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.MultiThreads1", "Lab.Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.MultiThreads2", "Lab.MultiThreads2\Lab.MultiThreads2.csproj", "{7B183B4B-69AF-4990-B34C-3517993F6ADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.MultiThreads3", "Lab.MultiThreads3\Lab.MultiThreads3.csproj", "{C5F37679-5D34-420E-9744-0D320BE12949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7B183B4B-69AF-4990-B34C-3517993F6ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B183B4B-69AF-4990-B34C-3517993F6ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B183B4B-69AF-4990-B34C-3517993F6ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F37679-5D34-420E-9744-0D320BE12949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F37679-5D34-420E-9744-0D320BE12949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F37679-5D34-420E-9744-0D320BE12949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F37679-5D34-420E-9744-0D320BE12949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
