@@ -1,6 +1,7 @@
+# [黑暗執行緒 - 深入 .NET ThreadPool 執行緒數量管理](https://blog.darkthread.net/blog/threadpool-thread-management/)
 > 這個實驗要證明為何透過 `ThreadPool.SetMinThreads` 設定最小執行緒數量，可以增進效能。
 
-- [黑暗執行緒 - 深入 .NET ThreadPool 執行緒數量管理](https://blog.darkthread.net/blog/threadpool-thread-management/)
+
 
 ### `ThreadPool` 怎麼決定何時要增加 `Thread` 呢
 - Starvation-Avoidance Mechanism - 當 Queue 中等待項目沒有減少, 則增加工作數量
